@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Tgrafos/static/css/main.2cce8147.chunk.css",
+    "main.js": "/Tgrafos/static/js/main.5ca2cd70.chunk.js",
+    "main.js.map": "/Tgrafos/static/js/main.5ca2cd70.chunk.js.map",
+    "runtime~main.js": "/Tgrafos/static/js/runtime~main.5d81d39d.js",
+    "runtime~main.js.map": "/Tgrafos/static/js/runtime~main.5d81d39d.js.map",
+    "static/css/2.d067ed04.chunk.css": "/Tgrafos/static/css/2.d067ed04.chunk.css",
+    "static/js/2.5cf77ac9.chunk.js": "/Tgrafos/static/js/2.5cf77ac9.chunk.js",
+    "static/js/2.5cf77ac9.chunk.js.map": "/Tgrafos/static/js/2.5cf77ac9.chunk.js.map",
+    "index.html": "/Tgrafos/index.html",
+    "precache-manifest.25c602b8be1171ca44d530d06f68d78c.js": "/Tgrafos/precache-manifest.25c602b8be1171ca44d530d06f68d78c.js",
+    "service-worker.js": "/Tgrafos/service-worker.js",
+    "static/css/2.d067ed04.chunk.css.map": "/Tgrafos/static/css/2.d067ed04.chunk.css.map",
+    "static/css/main.2cce8147.chunk.css.map": "/Tgrafos/static/css/main.2cce8147.chunk.css.map",
+    "static/media/index.css": "/Tgrafos/static/media/roboto-latin-900italic.bc833e72.woff"
+  }
+}
